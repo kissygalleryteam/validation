@@ -2,7 +2,7 @@
  * @fileOverview 扩展提示类:alert
  * @author 常胤 <lzlu.com>
  */
-KISSY.add( function(S, DOM, Event, Util, Define) {
+KISSY.add(function(S, DOM, Event, Util, Define) {
 	var symbol = Define.Const.enumvalidsign;
 
 	function Alert(){

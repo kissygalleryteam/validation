@@ -737,10 +737,10 @@ KISSY.add('gallery/validation/1.1/warn/base',function(S, DOM, Event, Util, BaseC
 
 
 /**
-'gallery/validation/1.1/warn/alert', * @fileOverview 扩展提示类:alert
+ * @fileOverview 扩展提示类:alert
  * @author 常胤 <lzlu.com>
  */
-KISSY.add( function(S, DOM, Event, Util, Define) {
+KISSY.add('gallery/validation/1.1/warn/alert',function(S, DOM, Event, Util, Define) {
 	var symbol = Define.Const.enumvalidsign;
 
 	function Alert(){
