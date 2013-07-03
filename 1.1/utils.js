@@ -3,7 +3,7 @@
  * @author 常胤 <lzlu.com>
  */
 
-KISSY.add( function(S, undefined) {
+KISSY.add(function(S, undefined) {
 
     /**
      * 常用工具类

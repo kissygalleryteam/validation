@@ -19,11 +19,11 @@ gallery/validation/1.1/index
 
 */
 /**
-'gallery/validation/1.1/utils', * @fileOverview 工具类
+ * @fileOverview 工具类
  * @author 常胤 <lzlu.com>
  */
 
-KISSY.add( function(S, undefined) {
+KISSY.add('gallery/validation/1.1/utils',function(S, undefined) {
 
     /**
      * 常用工具类
